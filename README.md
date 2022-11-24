@@ -29,3 +29,5 @@ Status nach Gliederungspunkt
 * Data Retrieval
     * frei zugängliche Datasets
     * Anfragen an Forschungsinstitute
+* Präsentation erstellen
+* Folienvortrag halten
