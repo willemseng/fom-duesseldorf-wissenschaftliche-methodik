@@ -1,6 +1,6 @@
 # Suchstrategie
 
-* von den ersten Treffern bei Google Scholar - Query `corona covid-19 frau erwerbsbeteiligung`
+* von den ersten Treffern bei Google Scholar - Query `corona covid-19 frau (erwerbstätigkeit OR erwerbsbeteiligung)`
 * Inverssuche über die Quellenangaben
 * Wirtschaftsforschungsinstitute als besonders hilfreiche Quellen
 
