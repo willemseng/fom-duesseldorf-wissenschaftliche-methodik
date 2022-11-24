@@ -3,6 +3,10 @@
 * Status nach Gliederungspunkt
 * erkannte Todos bitte unter [Todos](Todos.md) eintragen
 
+# Gliederung
+
+nach PDF des Professors
+
 ## Introduction
 
 [Introduction](Introduction.md)
