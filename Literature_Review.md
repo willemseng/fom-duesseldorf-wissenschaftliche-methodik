@@ -21,7 +21,7 @@
 * Hamburgisches Weltwirtschaftsinstitut (HWWI), Hamburg (&cross;)
 * Institut für Arbeitsmarkt- und Berufsforschung (IAB), Nürnberg (&check;) - reichlich, [HOPP](HOPP.md)
 * Institut für Angewandte Wirtschaftsforschung (IAW), Tübingen (&para;)
-* Ifo-Institut für Wirtschaftsforschung (IFO), München (&para;) - mit Daten, [Corona-BUND-Studie](Corond_BUND_Studie.md)
+* Ifo-Institut für Wirtschaftsforschung (IFO), München (&para;) - mit Daten, [Corona-BUND-Studie](Corona_BUND_Studie.md)
 * Institut für Weltwirtschaft (IFW), Kiel (&para;)
 * Institut für Makroökonomie und Konjunkturforschung (IMK) in der Hans Böckler Stiftung, Düsseldorf (&para;)
 * Institut für sozial-ökologische Wirtschaftsforschung (ISW), München (&para;)
