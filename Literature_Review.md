@@ -8,7 +8,7 @@
 
 * Deutsches Institut für Wirtschaftsforschung (DIW), Berlin (+)
 * Hamburgisches Weltwirtschaftsinstitut (HWWI), Hamburg (-)
-* Institut für Arbeitsmarkt- und Berufsforschung (IAB), Nürnberg (-) (-)
+* Institut für Arbeitsmarkt- und Berufsforschung (IAB), Nürnberg (-)
 * Institut für Angewandte Wirtschaftsforschung (IAW), Tübingen (-)
 * Ifo-Institut für Wirtschaftsforschung (IFO), München (-)
 * Institut für Weltwirtschaft (IFW), Kiel (-)
