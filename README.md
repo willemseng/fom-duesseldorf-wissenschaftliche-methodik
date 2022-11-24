@@ -27,5 +27,5 @@ Status nach Gliederungspunkt
 * Dokumentenvorlage
 * Review der Exzerpte
 * Data Retrieval
-** frei zugängliche Datasets
-** Anfragen an Forschungsinstitute
+    * frei zugängliche Datasets
+    * Anfragen an Forschungsinstitute
