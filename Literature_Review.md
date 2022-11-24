@@ -1,6 +1,6 @@
 # Suchstrategie
 
-* von den ersten Treffern bei Google Scholar
+* von den ersten Treffern bei Google Scholar - Query {{corona covid-19 frau erwaerbsbeteiligung}}
 * Inverssuche über die Quellenangaben
 * Wirtschaftsforschungsinstitute als besonders hilfreiche Quellen
 
