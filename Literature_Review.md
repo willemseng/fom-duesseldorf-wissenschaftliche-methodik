@@ -6,7 +6,7 @@
 
 # Wirtschaftsforschungsinstitute (DE)
 
-* Deutsches Institut für Wirtschaftsforschung (DIW), Berlin (+)
+* Deutsches Institut für Wirtschaftsforschung (DIW), Berlin (&check;)
 * Hamburgisches Weltwirtschaftsinstitut (HWWI), Hamburg (+)
 * Institut für Arbeitsmarkt- und Berufsforschung (IAB), Nürnberg (+)
 * Institut für Angewandte Wirtschaftsforschung (IAW), Tübingen (-)
