@@ -6,6 +6,12 @@
 
 # Wirtschaftsforschungsinstitute (DE)
 
+`LEGENDE
+ (&check;) - einschlägige Literatur gefunden
+ (&cross;) - keine einschlägige Literatur gefunden
+ (&para;) - noch zu prüfen
+ (&empty;) - keine Literatur zu erwarten`
+ 
 * Deutsches Institut für Wirtschaftsforschung (DIW), Berlin (&check;) - reichlich, SOEP-CoV
 * Hamburgisches Weltwirtschaftsinstitut (HWWI), Hamburg (&cross;)
 * Institut für Arbeitsmarkt- und Berufsforschung (IAB), Nürnberg (&check;) - reichlich, HOPP
