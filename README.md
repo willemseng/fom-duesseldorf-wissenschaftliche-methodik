@@ -4,20 +4,20 @@ Status nach Gliederungspunkt
 
 ## Introduction
 
-[Introduction]
+[Introduction](Introduction)
 
 ## Literature Review 
 
-[Literature Review]
+[Literature Review](Literature Review)
 
-## State of the Art
+## Empirical State of the Art
 
-[State of the Art]
+[Empirical State of the Art](Empirical State of the Art)
 
-## Investigation
+## Empirical Investigation
 
-[Investigation]
+[Empirical Investigation](Empirical Investigation)
 
 ## Conclusion
 
-[Conclusion]
+[Conclusion](Conclusion)
