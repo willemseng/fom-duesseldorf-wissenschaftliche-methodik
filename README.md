@@ -1,6 +1,7 @@
 # Übersicht für die Seminararbeit
 
-Status nach Gliederungspunkt
+* Status nach Gliederungspunkt
+* erkannte Todos bitte unter [Todos](Todos.md) eintragen
 
 ## Introduction
 
@@ -21,13 +22,3 @@ Status nach Gliederungspunkt
 ## Conclusion
 
 [Conclusion](Conclusion.md)
-
-# Todos
-
-* Dokumentenvorlage
-* Review der Exzerpte
-* Data Retrieval
-    * frei zugängliche Datasets
-    * Anfragen an Forschungsinstitute
-* Präsentation erstellen
-* Folienvortrag halten
