@@ -43,5 +43,5 @@
 
 * [Forschungsbemühungen der Bundesregierung, DBT Drucksache 19/24314](https://dserver.bundestag.de/btd/19/252/1925289.pdf)
 * [CORONA-Datenplattform des BMWK](https://www.corona-datenplattform.de/blog/aktuelles)
-** [Arbeitsmarktentwicklung](https://www.corona-datenplattform.de/dataset/arbeitsmarktentwicklung)
-** [Arbeitsmarktstruktur](https://www.corona-datenplattform.de/dataset/arbeitsmarktstruktur)
+    * [Arbeitsmarktentwicklung](https://www.corona-datenplattform.de/dataset/arbeitsmarktentwicklung)
+    * [Arbeitsmarktstruktur](https://www.corona-datenplattform.de/dataset/arbeitsmarktstruktur)
