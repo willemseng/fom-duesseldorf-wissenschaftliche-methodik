@@ -31,7 +31,7 @@
 * Rheinisch-Westfälisches Institut für Wirtschaftsforschung (RWI), Essen (&para;)
 * Leibniz-Institut für Finanzmarktforschung SAFE, (SAFE), Frankfurt am Main (&empty;)
 * Walter-Eucken-Institut (WEI), Freiburg im Breisgau (&para;)
-* Wirtschafts- und Sozialwissenschaftliches Institut (WSI) in der Hans-Böckler-Stiftung, Düsseldorf (&para;)
+* Wirtschafts- und Sozialwissenschaftliches Institut (WSI) in der Hans-Böckler-Stiftung, Düsseldorf (&check;)
 * Wissenschaftszentrum Berlin für Sozialforschung (WZB), Berlin (&para;)
 * Leibniz-Zentrum für Europäische Wirtschaftsforschung (ZEW), Mannheim (&para;)
 * Max-Planck-Institut für Innovation und Wettbewerb (MPIIW) (&empty;)
